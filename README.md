@@ -1,4 +1,4 @@
-# DX 704 Homework 01
+# DX 704 Project 1
 
 ## Instructions
 
