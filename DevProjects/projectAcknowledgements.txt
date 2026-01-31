@@ -1,0 +1,11 @@
+## Part 9: Acknowledgments
+
+Acknowledgments
+
+This project was completed independently.
+
+I used the Python libraries numpy, pandas, scipy, matplotlib, and yfinance, which are standard tools for data analysis, numerical optimization, and financial data retrieval. These libraries were used to collect historical price data, compute returns and covariances, perform portfolio optimization, and generate visualizations.
+
+I used a generative AI tool (ChatGPT by OpenAI) to assist with understanding course concepts, validating my approach, debugging code, and ensuring alignment with the project requirements. All code was reviewed, tested, and executed by me, and I am responsible for the final implementation and results.
+
+No other outside assistance or sources were used.
